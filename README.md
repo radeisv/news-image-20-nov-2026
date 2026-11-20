@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-[![Rank](https://make.fun/radeisv/news-image-20-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261120)
-[![Reward](https://make.fun/radeisv/news-image-20-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![Rank](https://make.fun/badge/news-image-20261120/radeisv/news-image-20-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![Reward](https://make.fun/badge/news-image-20261120/radeisv/news-image-20-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image summing up the world's news of **Friday 20 November 2026** —
 44 verified stories across 7 regions: Cyclone Akvan's landfall in India,
